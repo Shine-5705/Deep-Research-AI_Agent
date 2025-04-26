@@ -73,7 +73,7 @@ TAVILY_API_KEY=your_tavily_key
 ```bash
 streamlit run app.py
 ```
-Hugging Face Project URL: https://huggingface.co/spaces/shubhamgs/Deep_Research_AI_Agent   
+Hugging Face Project URL: https://huggingface.co/spaces/Shinegupta/Deep_Research_AIAgent   
 On Hugging Face Spaces, make sure:   
 app.py is the main file   
 requirements.txt is present   

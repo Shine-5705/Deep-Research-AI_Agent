@@ -83,5 +83,6 @@ Secrets key are added properly
 
 ## **Author** 
 👤 Shine Gupta
+
 🔗 GitHub: https://github.com/Shine-5705  
 🔗 Hugging Face Project URL: https://huggingface.co/spaces/Shinegupta/Deep_Research_AIAgent
